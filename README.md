@@ -1,6 +1,6 @@
 # home_assignment
 
-you can run npm install on the fronend and backend
+you can run npm install on the frontend and backend
 
 The project usese a local mongdb database
 
